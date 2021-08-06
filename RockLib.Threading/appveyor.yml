@@ -93,7 +93,7 @@ deploy:
 notifications:
 - provider: Email
   to:
-  - rocklibsupport@quickenloans.com
+  - rocklibsupport@rocketmortgage.com
   on_build_success: false
   on_build_failure: false
   on_build_status_changed: true
